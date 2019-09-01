@@ -11,6 +11,8 @@ labels:
 summary: Simple Rock, Paper, Scissors simulator programmed in C for ICS 212.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/rps ex.png">
+
 Everyone knows the game rock, paper, scissors. The simple hand game you played with your friends to decide who is paying for dinner or who gets to sit in the front seat of the car ride. Well, what if you didn't have any friends to play with but you ask yourself: should I continue doing my homework or should I play some video games instead? Decide with a game of rock, paper, scissors right on your computer!
 
 This program was one of the many assignments that I programmed for ICS 212. As the project suggests, it was progammed using C langugage. The premise of this program was to keep playing rock, paper, scissors with a computer until the the user decides to quit. If the user decides to quit, the program will display the number of wins, loses, and ties made throughout the entire play through. To combat user input error, the program only recognizes inputs 'r' for rock, 'p' for paper, 's' for scissors, and 'q' for quit. Any other input will display an error message. 
