@@ -1,17 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: morse.png
+title: Morse Code Translator
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-03-08
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C
+summary: A C program that translates command line agruments in morse code and translates it into English.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
