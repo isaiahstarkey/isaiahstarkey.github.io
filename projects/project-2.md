@@ -3,7 +3,7 @@ layout: project
 type: project
 image: morse.png
 title: Morse Code Translator
-permalink: projects/vacay
+permalink: projects/morse
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-08
 labels:
