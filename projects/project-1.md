@@ -11,7 +11,7 @@ labels:
 summary: Simple Rock, Paper, Scissors simulator programmed in C for ICS 212.
 ---
 
-<img class="ui medium right floated rounded image" src="images/rps ex.png">
+<img class="ui medium right floated rounded image" src=" isaiahstarkey.github.io/images/rps ex.PNG">
 
 Everyone knows the game rock, paper, scissors. The simple hand game you played with your friends to decide who is paying for dinner or who gets to sit in the front seat of the car ride. Well, what if you didn't have any friends to play with but you ask yourself: should I continue doing my homework or should I play some video games instead? Decide with a game of rock, paper, scissors right on your computer!
 
