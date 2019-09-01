@@ -11,21 +11,29 @@ labels:
 summary: Simple Rock, Paper, Scissors simulator programmed in C for ICS 212.
 ---
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Everyone knows the game rock, paper, scissors. The simple hand game you played with your friends to decide who is paying for dinner or who gets to sit in the front seat of the car ride. Well, what if you didn't have any friends to play with but you ask yourself: should I continue doing my homework or should I play some video games instead? Decide with a game of rock, paper, scissors right on your computer!
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This program was one of the many assignments that I programmed for ICS 212. As the project suggests, it was progammed using C langugage. The premise of this program was to keep playing rock, paper, scissors with a computer until the the user decides to quit. If the user decides to quit, the program will display the number of wins, loses, and ties made throughout the entire play through. To combat user input error, the program only recognizes inputs 'r' for rock, 'p' for paper, 's' for scissors, and 'q' for quit. Any other input will display an error message. 
 
-Here is some code that illustrates how we read values from the line sensors:
+This program includes three methods. The main, compare, and compChoice method. The main method is where the number of wins, loses, and ties are recorded. It also seeds a random integer from 1 to 3 which will represent rock, paper, or scissors. The compChoice method takes in the random integer and convertes it to a char 'r', 'p', or 's' and returns it. The compare method compare computer choice and user choice to see who wins. In conclusion, this project was fun to work on, and although it is simplistic, it can be applied to larger scale applications.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+Here is some code that illustrates how I compared the user input to the computer input:
+
+```c
+int compare(char comp1, char comp2){
+	 
+	if (comp1 == 'r' && comp2 == 'r') {
+		printf("two rocks, so it's a TIE! \n");
+		return 1;
+	}
+	else if (comp1 == 'p' && comp2 == 'p') {
+		printf("two paper, so it's a TIE! \n");
+		return 1;
+	}
+	else if (comp1 == 's' && comp2 == 's') {
+		printf("two paper, so it's a TIE! \n");
+		return 1;
+	}
 }
 ```
 
