@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: morse.png
+image: images/morse.png
 title: Morse Code Translator
 permalink: projects/morse
 # All dates must be YYYY-MM-DD format!
