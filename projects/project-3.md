@@ -22,6 +22,4 @@ Aside from that, I inlcuded buttons to other HTML pages that allow you input dat
 
 The website can be viewed <a href="https://doritengoku.000webhostapp.com/">here</a>. 
 
-https://doritengoku.000webhostapp.com/index.html
-
 
