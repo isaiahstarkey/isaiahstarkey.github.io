@@ -20,6 +20,8 @@ First of all, the website is hosted on 000webhost. I think it a great place to h
 
 Aside from that, I inlcuded buttons to other HTML pages that allow you input data, update data, and delete data from the database.There is also a select menu that brings up PHP pages that allows you to view a list of all the cars in the database and a list of all drivers, their cars, and their track. 
 
+<img class="ui image" src="../images/database.png">
+
 The website can be viewed <a href="https://doritengoku.000webhostapp.com/index.html/">here</a>. 
 
 
