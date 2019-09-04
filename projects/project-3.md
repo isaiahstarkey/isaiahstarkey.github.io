@@ -20,6 +20,6 @@ Aside from that, I inlcuded buttons to other HTML pages that allow you input dat
 
 <img class="ui image" src="../images/database.PNG">
 
-The website can be viewed <a href="https://doritengoku.000webhostapp.com/index.html/">here</a>. 
+The website can be viewed <a href="https://doritengoku.000webhostapp.com/index.html">here</a>. 
 
 
