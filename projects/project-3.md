@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.gif
+image: images/dori.jpg
 title: Drift Tengoku
 permalink: projects/drifttengoku
 # All dates must be YYYY-MM-DD format!
