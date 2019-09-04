@@ -15,6 +15,5 @@ summary: A C program that translates command line agruments in morse code and tr
 
 Morse code is inputted via command line when the program is ran. If the morse code is correct, it will output the the English translation. This program not only translates the English alphabet, but it also translates numbers as well. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In this project I gained more experience working with C programming and interpreting command line agruments to be used with the code. In order to translate the morse code, I defined an arrary of character for each letter of the alphabet and number 0 through 9. I then did error checking to see if there is more than two command line agruments used to translate. Finally, I looped through the agruments, looped through the morse code arrary, compared arguemnts to morse code, then printed translation.
+
