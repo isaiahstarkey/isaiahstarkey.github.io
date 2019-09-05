@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Intrest in Software Engineering!
+title: Interest in Software Engineering!
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-31
 labels:
@@ -15,9 +15,9 @@ There are many things about software engineering that fascinate me. Athough I ha
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
-Ever sinc I was a child, I had an interest in solving puzzles. Wether it was a simple jigsaw puzzle or a challegning sudoku puzzle, I enjoyed doing them, and maybe the idea of "strengthening my brain" keep driving me to continue on doing these puzzles. Software engineering is right up my alley because it is like solving puzzles, albeit you are are trying to figure out why a certain piece of code is not working, it is a puzzle nonetheless, and it is fun to do. 
+Ever since I was a child, I had an interest in solving puzzles. Whether it was a simple jigsaw puzzle or a challegning sudoku puzzle, I enjoyed doing them, and maybe the idea of "strengthening my brain" keep driving me to continue on doing these puzzles. Software engineering is right up my alley because it is like solving puzzles, albeit you are are trying to figure out why a certain piece of code is not working, it is a puzzle nonetheless, and it is fun to do. 
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I hope my interest and curiousity for software engineering grows bigger as I learn more about it. I want to be able to use the knowledge that I gain from software engineering in real life scenarios. If I could make life just a little easier because of software engineering, then I all the knowledge that I have and will gain will all be worth it.
 
