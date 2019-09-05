@@ -18,7 +18,7 @@ Whether you think Javascript is a good programming language, or whether you thin
 
 As of writing this essay, I may only have around 2 weeks using Javascript, and although I am still familiarizing myself with the language, I must say that it is quite refreshing and easy to digest. I, myself, have experience working with other languages such as Java, C, and C++, and I think Javascript is one of the easier languages to start programming on. Even if you didn’t have any experience with programming, Javascript is a great place to start, and there are websites out there that make it easy to hop right into it, such as freecodecamp.org.
 
-## The powerful tools of Javascript
+## The powerful features of Javascript
 
 Speaking of freecodecamp, doing the Javascript exercises on the site was my first introduction to basic Javascript and ES6. While working on the basic Javascript exercises, the main thing I noticed was how lenient it was. Javascript doesn’t use all the different data types that Java or C programming uses. In Javascript, you can use ‘var’ to represent an integer, character, or even a string. This makes this much less confusing, and in my opinion, better than using specific data types.
 
@@ -46,7 +46,7 @@ console.log(concat([1, 2], [3, 4, 5])); //returns 1,2,3,4,5
 ```
 I think it is important for my to get familiarize with all the different tools in Javascript because you will never know when you when they could come in handy.
 
-## In the context of relationships
+## Tools for the real world
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
