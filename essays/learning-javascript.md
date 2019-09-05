@@ -44,6 +44,7 @@ const concat = (arr1, arr2) => arr1.concat(arr2);
 console.log(concat([1, 2], [3, 4, 5])); //returns 1,2,3,4,5
 
 ```
+I think it is important for my to get familiarize with all the different tools in Javascript because you will never know when you when they could come in handy.
 
 ## In the context of relationships
 
