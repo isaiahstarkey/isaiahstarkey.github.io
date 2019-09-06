@@ -8,8 +8,6 @@ labels:
   - Javascript
 ---
 
-<img class= src="../images/javascript.png">
-
 What does one think when they hear the word Javascript? When I first heard of it, I thought it would be a language similar to Java. Although there are some similarities regarding both Java and Javascript, one must treat Javascript as an entirely new programming language with its own quirks.
 
 Whether you think Javascript is a good programming language, or whether you think it is a horrible one, you cannot deny that it is used in real life applications and programs. So, if you are on the edge as to whether or not you should learn Javascript, here are some things I’ve come across during my brief time with Javascript. 
