@@ -48,8 +48,4 @@ I think it is important for my to get familiarize with all the different tools i
 
 ## Tools for the real world
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
+Did I convince you as too whether or not you should learn Javascript? If not, I should also mention that a lot of today’s websites support Javascript, and it is used in addition with HTML and CSS as one of the core technologies of the web. Javascript is a very versatile language that can be implemented in many ways, and in regard with software engineering, Javascript is a must have skill.
