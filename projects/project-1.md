@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rps.jpg
+image: images/support.jpg
 title: IT Support
 permalink: projects/itsupport
 # All dates must be YYYY-MM-DD format!
