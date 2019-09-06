@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny left circular floated image" src="../images/javascript.png">
+<img class= src="../images/javascript.png">
 
 What does one think when they hear the word Javascript? When I first heard of it, I thought it would be a language similar to Java. Although there are some similarities regarding both Java and Javascript, one must treat Javascript as an entirely new programming language with its own quirks.
 
