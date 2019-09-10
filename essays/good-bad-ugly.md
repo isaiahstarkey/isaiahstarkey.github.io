@@ -10,8 +10,6 @@ labels:
   - StackOverflow
 ---
 
-## Stupid Questions Do Exist
-
 <img class="ui medium left floated image" src="../images/question.gif">
 
 Picture this, you have a programming assignment due at midnight, and you are typing furiously to get it finished on time. Along the way you come across an error message in your code, and after spending hours trying to debug your code you turn to the internet to help you fix your problem. As I scour the net for help, I always notice the amount of bad questions that I have to filter out before I can find a question pertaining to my problem. Bad questions are not only a waste of time, but they also offer no help to the answerer  trying to answer these questions as these questions are often times vague and confusing. 
