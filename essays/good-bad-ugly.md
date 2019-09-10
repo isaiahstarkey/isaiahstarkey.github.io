@@ -21,7 +21,7 @@ In order to receive smart answers, you must ask smart questions. This may seem e
 In the following example, we see a simple, yet effective, question that deals with JavaScript’s let and var statements. 
 
 ```
-What's the difference between using “let” and “var”?
+Q: What's the difference between using “let” and “var”?
  
 ECMAScript 6 introduced the let statement.
 I've heard it that it's described as a "local" variable, but I'm still not quite sure how it behaves differently than the var keyword.
