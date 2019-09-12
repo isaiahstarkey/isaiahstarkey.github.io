@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-Title: The Good, The Bad, and the Ugly
+Title: The Good And The Bad
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-08
 labels:
