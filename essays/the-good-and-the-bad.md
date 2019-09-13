@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Good and The Bad
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-05
+date: 2019-09-10
 labels:
   - StackOverflow
   - Questions
