@@ -28,7 +28,7 @@ beautiful swan. Creating a website with raw HTML and CSS is like being an ugly d
 
 <img class="ui medium left image" src="../images/samsung.PNG">
 <img class="ui medium right image" src="../images/semantic.PNG">
-Samsung's website on the top and my recreation on the bottom
+Samsung's website on the top and my recreation on the bottom using Semantic UI
 
 ## A different perspective
 
