@@ -18,6 +18,9 @@ My journey with HTML started many years ago when I first became interested in so
 
 When it comes to creating a website with raw HTML and CSS, I can’t help but compare it to the story about of The Ugly Duckling. Many people know the tale as a young duckling being bullied because he was ugly, but in the end of the story, he matures into a beautiful swan. Creating a website with raw HTML and CSS is like being an ugly duckling, but as you learn more, you will be able to turn your website into a beautiful swan with the help of UI Frameworks. Let’s be honest, websites just don’t look as nice if you were to create it with just HTML. Even with the help of CSS, these websites don’t stand a chance against others on the web in terms of design. That’s were UI frameworks such as Semantic UI come in.
 
+<img class="ui medium left floated image" src="../images/samsung.png">
+<img class="ui medium left floated image" src="../images/semantic.png">
+
 ##A different perspective
 
 I never thought it was possible to create such professional and clean looking websites with just something like a UI Framework, but my experience with Semantic UI has changed the way I looked at building a website. Now when I look at other websites on the internet, I think to myself how I could recreate it myself using Semantic UI. For example, I recreated my own version of the Samsung website using Semantic UI. I found it fun trying to figure out how I can replicate a website like Samsung’s using Semantic UI, and to my surprise it wasn’t too difficult. When it comes to UI Frameworks, Semantic UI is just the tip of the iceberg. There are other, more intricate, UI Frameworks out there that allow users to further develop their website’s front-end. No one wants their website to be the ugly duckling. If you want your website to look more professional and modern, learning how to use UI Frameworks is a must.
