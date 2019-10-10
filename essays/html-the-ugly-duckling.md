@@ -24,14 +24,11 @@ and now I finally feel like I could create a website that doesn’t look that ba
 
 When it comes to creating a website with raw HTML and CSS, I can’t help but compare it to the story about of The Ugly Duckling. 
 Many people know the tale as a young duckling being bullied because he was ugly, but in the end of the story, he matures into a
-beautiful swan. Creating a website with raw HTML and CSS is like being an ugly duckling, but as you learn more, you will be able
-to turn your website into a beautiful swan with the help of UI Frameworks. Let’s be honest, websites just don’t look as nice if
-you were to create it with just HTML. Even with the help of CSS, these websites don’t stand a chance against others on the web 
-in terms of design. That’s were UI frameworks such as Semantic UI come in.
+beautiful swan. Creating a website with raw HTML and CSS is like being an ugly duckling, but as you learn more, you will be able to turn your website into a beautiful swan with the help of UI Frameworks. Let’s be honest, websites just don’t look as nice if you were to create it with just HTML. Even with the help of CSS, these websites don’t stand a chance against others on the web in terms of design. That’s were UI frameworks such as Semantic UI come in.
 
 <img class="ui medium left image" src="../images/samsung.PNG">
 <img class="ui medium right image" src="../images/semantic.PNG">
-
+Samsung's website on the left and my recreation on the right
 
 ## A different perspective
 
