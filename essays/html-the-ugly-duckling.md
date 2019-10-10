@@ -29,8 +29,9 @@ to turn your website into a beautiful swan with the help of UI Frameworks. Let�
 you were to create it with just HTML. Even with the help of CSS, these websites don’t stand a chance against others on the web 
 in terms of design. That’s were UI frameworks such as Semantic UI come in.
 
-<img class="ui medium left floated image" src="../images/samsung.PNG">
-<img class="ui medium right floated image" src="../images/semantic.PNG">
+<img class="ui medium left image" src="../images/samsung.PNG">
+<img class="ui medium right image" src="../images/semantic.PNG">
+
 
 ## A different perspective
 
