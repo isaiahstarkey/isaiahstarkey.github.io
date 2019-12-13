@@ -18,6 +18,8 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 ## Contribution
 The contributions that I made to the project were creating the part of the item card.
 
+<img class="ui image" src="../images/database.PNG">
+
 The 'My Favorites' page which show all the items that the user has favorited.
 
 The 'My Items Page' which allow you to view all the items that the user has listed for sale and choose if they want to remove or edit the item. The 'Edit Item' page allows the user to edit an item they have posted if they want to change the name, price, description, etc. 
